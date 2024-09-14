@@ -1,3 +1,8 @@
 FAK FMOS PAKAGES LIST:
 
 1. 
+Name: 
+Command for installation:
+Size: 
+
+2.
