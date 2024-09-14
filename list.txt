@@ -1,8 +1,8 @@
 FAK FMOS PAKAGES LIST:
 
 1. 
-Name: 
-Command for installation:
-Size: 
-
-2.
+Name: test
+creator: fabischau
+Command for installation: fak install test
+Size: 730 B (730 Bytes)
+discription: a test pakage
